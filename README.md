@@ -1,2 +1,2 @@
 # siteEtical
- Site para dilvugar os videos do canal do youtube DarkFranh.
+ Criar site com os videos que estão no canal do youtube.
