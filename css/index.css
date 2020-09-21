@@ -54,5 +54,6 @@ li {
 }
 
 .redes-sociais {
+    display: inline-block;
     margin: auto;
 }
