@@ -52,3 +52,9 @@ ul,
 li {
     list-style: none;
 }
+
+.redes-sociais {
+    width: 25%;
+    margin-top: 20%;
+    margin: auto;
+}
