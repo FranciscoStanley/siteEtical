@@ -47,3 +47,8 @@ a:hover {
 p {
     text-align: justify;
 }
+
+ul,
+li {
+    list-style: none;
+}
