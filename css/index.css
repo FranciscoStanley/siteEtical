@@ -109,3 +109,21 @@ li a:hover:not(.active) {
     background-color: #555;
     color: white;
 }
+
+.sobre p {
+    text-indent: 30px;
+    text-align: justify;
+}
+
+.sobre,
+h2 {
+    text-align: center;
+}
+
+header {
+    text-align: center;
+}
+
+.btn {
+    margin-right: 90%;
+}
